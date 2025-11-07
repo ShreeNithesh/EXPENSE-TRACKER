@@ -7,8 +7,6 @@
 
 > Intelligent expense management system with 99.65% ML accuracy for automatic categorization and AI-powered financial insights.
 
-![Project Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=AI-Powered+Expense+Tracker)
-
 ## 🌟 Features
 
 - **🤖 Automatic Expense Categorization**: ML-powered prediction with 99.65% F1-score accuracy
