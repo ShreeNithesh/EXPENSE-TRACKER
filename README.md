@@ -1,4 +1,4 @@
-# 🏦 AI-Powered Expense Tracker & Financial Assistant
+# Expense Tracker & Financial Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-red.svg)](https://streamlit.io/)
