@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "20251030T113356Z",
+    "vectorizer": "models/tfidf_vectorizer_20251030T113356Z.pkl",
+    "scaler": "models/scaler_20251030T113356Z.pkl",
+    "label_encoder": "models/label_encoder_20251030T113356Z.pkl"
+  },
+  {
+    "timestamp": "20251030T132230Z",
+    "vectorizer": "models/tfidf_vectorizer_20251030T132230Z.pkl",
+    "scaler": "models/scaler_20251030T132230Z.pkl",
+    "label_encoder": "models/label_encoder_20251030T132230Z.pkl"
+  },
+  {
+    "timestamp": "20251030T150740Z",
+    "vectorizer": "models/tfidf_vectorizer_20251030T150740Z.pkl",
+    "scaler": "models/scaler_20251030T150740Z.pkl",
+    "label_encoder": "models/label_encoder_20251030T150740Z.pkl"
+  },
+  {
+    "timestamp": "20251104T165113Z",
+    "vectorizer": "models/tfidf_vectorizer_20251104T165113Z.pkl",
+    "scaler": "models/scaler_20251104T165113Z.pkl",
+    "label_encoder": "models/label_encoder_20251104T165113Z.pkl"
+  },
+  {
+    "timestamp": "20251104T171427Z",
+    "vectorizer": "models/tfidf_vectorizer_20251104T171427Z.pkl",
+    "scaler": "models/scaler_20251104T171427Z.pkl",
+    "label_encoder": "models/label_encoder_20251104T171427Z.pkl"
+  },
+  {
+    "timestamp": "20251104T174230Z",
+    "vectorizer": "models/tfidf_vectorizer_20251104T174230Z.pkl",
+    "scaler": "models/scaler_20251104T174230Z.pkl",
+    "label_encoder": "models/label_encoder_20251104T174230Z.pkl"
+  },
+  {
+    "timestamp": "20251106T165144Z",
+    "vectorizer": "models/tfidf_vectorizer_20251106T165144Z.pkl",
+    "scaler": "models/scaler_20251106T165144Z.pkl",
+    "label_encoder": "models/label_encoder_20251106T165144Z.pkl"
+  }
+]
