@@ -145,7 +145,7 @@ python -c "from src.model_evaluation import run_comprehensive_benchmark; run_com
 - **Matplotlib**: Data visualization
 - **Seaborn**: Statistical plotting
 
-## 📈 Key Features Explained
+## Key Features Explained
 
 ### 1. Automatic Categorization
 ```python
@@ -168,7 +168,7 @@ Output: food_dining (73% confidence) ✅
 - **Spending Insights**: Behavioral pattern analysis
 - **50/30/20 Rule**: Standard budgeting integration
 
-## 🔬 Technical Highlights
+## Technical Highlights
 
 ### Advanced Feature Engineering
 - **TF-IDF with Bigrams**: Captures "car loan" as single concept
@@ -188,7 +188,7 @@ Output: food_dining (73% confidence) ✅
 - **Real-time Statistics**: Transaction and user tracking
 - **Backup Systems**: Data protection
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 - **Training Dataset**: 2,974 transactions
 - **Feature Dimensions**: 612 (TF-IDF + numerical)
@@ -197,7 +197,7 @@ Output: food_dining (73% confidence) ✅
 - **Model Accuracy**: 99.65% F1-score
 - **Training Time**: < 5 seconds
 
-## 🎯 Expense Categories
+## Expense Categories
 
 1. **food_dining**: Restaurants, cafes, takeout
 2. **gas_transport**: Fuel, public transport, parking
@@ -214,25 +214,10 @@ Output: food_dining (73% confidence) ✅
 13. **grocery_net**: Online grocery
 14. **misc_net**: Digital services
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/ShreeNithesh)
 
 ## 🙏 Acknowledgments
 
@@ -246,7 +231,7 @@ For questions or feedback, please open an issue or contact [your.email@example.c
 
 ## 🚀 Future Enhancements
 
-- [ ] Mobile app (React Native)
+- [ ] Mobile app
 - [ ] Bank integration for automatic imports
 - [ ] Investment tracking
 - [ ] Family sharing features
@@ -256,7 +241,3 @@ For questions or feedback, please open an issue or contact [your.email@example.c
 - [ ] Export to Excel/PDF
 
 ---
-
-⭐ **Star this repository** if you find it helpful!
-
-Made with ❤️ and 🤖 Machine Learning
